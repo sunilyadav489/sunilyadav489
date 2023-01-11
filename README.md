@@ -6,7 +6,7 @@
 ​
 ## About me
 ​
-A Front-end engineer with more than 8 years of professional experience in JavaScript frameworks, React, Redux, TypeScript and front-end development. My main expertise are in JavaScript and React. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
+A Front-end engineer with more than 10 years of professional experience in JavaScript frameworks, React, Redux and front-end development. My main expertise are in JavaScript and React. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
 ​
 ​
 ## 🚀  Languages and Tools
