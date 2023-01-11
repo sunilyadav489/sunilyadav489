@@ -1,6 +1,6 @@
 # Hi there, I am Sunil Yadav
-- 🌱 I'm currently learning Advanced React concepts, Ruby on Rails and JS frameworks.
-- 🥅 2022 Goals: Learn advanced React concepts | Front-end Security and Performance Optimizations | Contribute to open source projects
+- 🌱 I'm currently learning Advanced React concepts, VueJS, AWS Cloud and JS frameworks.
+- 🥅 2023 Goals: Learn advanced React concepts | Front-end Security and Performance Optimizations | Contribute to open source projects
 - ⚡ Fun fact: I love 🏏, 🚴 and 🏊
 ​
 ​
